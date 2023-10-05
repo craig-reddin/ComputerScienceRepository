@@ -1,0 +1,3 @@
+Hospital_ID,Hospital_Department,Doctor Number,Surgery ID,First Name,Last Name,Specialisation,Email,Password,PPS Number,User-Id
+HH-4000000,Cardiology,DA-3999555,null,Tommy,Marky,Cardiologist,TommyM@beaumont.ie,TommyTommy,8168890I,US-3999555
+HH-4000000,Radiology,DA-3999554,null,Mary,Marky,Radiologist,MaryM@beaumont.ie,MaryMary,8168890I,US-3999554
